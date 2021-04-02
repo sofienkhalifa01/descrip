@@ -540,9 +540,9 @@ const dataTab = [
         plan17:'IF with Else statements',
         plan18:'Operators ',
         plan19:'Strings',
-        plan19:'Structured programming vs Object Oriented Programming',
-        plan19:'Object-Oriented terminology',
-        plan19:'Basic concept of Class, Object and Inheritance in Python',
+        plan20:'Structured programming vs Object Oriented Programming',
+        plan21:'Object-Oriented terminology',
+        plan22:'Basic concept of Class, Object and Inheritance in Python',
         Requirements:'It is not necessary to have knowledge of Python before you start this Python course but you must have some knowledge of basic programming concepts like variable, loops, functions. ',
         count: '5.0 (980)',
         price: '$49.00'
